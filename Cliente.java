@@ -11,6 +11,9 @@ package cadastrosvendas;
  */
 public class Cliente extends Pessoas{
     
-   
+    private String nome;
+    private String endereco;
+    private String email;
+    private String fone;
     
 }
